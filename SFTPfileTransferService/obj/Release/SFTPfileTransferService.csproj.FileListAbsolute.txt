@@ -1,0 +1,12 @@
+C:\Users\R041803053\documents\visual studio 2015\Projects\FTPtest\SFTPfileTransferService\bin\Release\SFTPfileTransferService.exe.config
+C:\Users\R041803053\documents\visual studio 2015\Projects\FTPtest\SFTPfileTransferService\bin\Release\SFTPfileTransferService.exe
+C:\Users\R041803053\documents\visual studio 2015\Projects\FTPtest\SFTPfileTransferService\bin\Release\SFTPfileTransferService.pdb
+C:\Users\R041803053\documents\visual studio 2015\Projects\FTPtest\SFTPfileTransferService\bin\Release\Renci.SshNet.dll
+C:\Users\R041803053\documents\visual studio 2015\Projects\FTPtest\SFTPfileTransferService\bin\Release\Renci.SshNet.xml
+C:\Users\R041803053\documents\visual studio 2015\Projects\FTPtest\SFTPfileTransferService\obj\Release\SFTPfileTransferService.ProjectInstaller.resources
+C:\Users\R041803053\documents\visual studio 2015\Projects\FTPtest\SFTPfileTransferService\obj\Release\SFTPfileTransferService.csproj.GenerateResource.Cache
+C:\Users\R041803053\documents\visual studio 2015\Projects\FTPtest\SFTPfileTransferService\obj\Release\SFTPfileTransferService.exe
+C:\Users\R041803053\documents\visual studio 2015\Projects\FTPtest\SFTPfileTransferService\obj\Release\SFTPfileTransferService.pdb
+E:\FTPtest\SFTPfileTransferService\bin\Release\SFTPfileTransferService.exe.config
+E:\FTPtest\SFTPfileTransferService\obj\Release\SFTPfileTransferService.exe
+E:\FTPtest\SFTPfileTransferService\obj\Release\SFTPfileTransferService.pdb

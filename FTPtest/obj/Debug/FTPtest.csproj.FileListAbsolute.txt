@@ -1,0 +1,8 @@
+c:\users\r041803053\documents\visual studio 2015\Projects\FTPtest\FTPtest\bin\Debug\FTPtest.exe.config
+c:\users\r041803053\documents\visual studio 2015\Projects\FTPtest\FTPtest\obj\Debug\FTPtest.csprojResolveAssemblyReference.cache
+c:\users\r041803053\documents\visual studio 2015\Projects\FTPtest\FTPtest\bin\Debug\FTPtest.exe
+c:\users\r041803053\documents\visual studio 2015\Projects\FTPtest\FTPtest\bin\Debug\FTPtest.pdb
+c:\users\r041803053\documents\visual studio 2015\Projects\FTPtest\FTPtest\obj\Debug\FTPtest.exe
+c:\users\r041803053\documents\visual studio 2015\Projects\FTPtest\FTPtest\obj\Debug\FTPtest.pdb
+c:\users\r041803053\documents\visual studio 2015\Projects\FTPtest\FTPtest\bin\Debug\Renci.SshNet.dll
+c:\users\r041803053\documents\visual studio 2015\Projects\FTPtest\FTPtest\bin\Debug\Renci.SshNet.xml
